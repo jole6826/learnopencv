@@ -1,10 +1,40 @@
 # learnopencv
-Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](http://www.LearnOpenCV.com)
+Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
 
 ## List of Blog Posts
 
 | Blog Post        | |
 | ------------- |:-------------|
+|[Deep Learning based Object Detection using YOLOv3 with OpenCV ( Python / C++ )](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO)|
+|[Convex Hull using OpenCV in Python and C++](https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/ConvexHull)|
+|[MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/MultiObjectTracker) |
+|[Convolutional Neural Network based Image Colorization using OpenCV](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Colorization)|
+|[SVM using scikit-learn](https://www.learnopencv.com/svm-using-scikit-learn-in-python/)|[Code](https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python)| 
+|[GOTURN: Deep Learning based Object Tracking](https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/) | [Code](https://github.com/spmallick/learnopencv/tree/master/GOTURN)|
+|[Find the Center of a Blob (Centroid) using OpenCV (C++/Python)](https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/CenterofBlob)|
+|[Support Vector Machines (SVM)](https://www.learnopencv.com/support-vector-machines-svm/)|[Code](https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python)|
+|[Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) | [Code](https://github.com/spmallick/learnopencv/tree/master/BatchNormalization)|
+|[Deep Learning based Character Classification using Synthetic Dataset](https://www.learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/) | [Code](https://github.com/spmallick/learnopencv/tree/master/CharClassification)|
+|[Image Quality Assessment : BRISQUE](https://www.learnopencv.com/image-quality-assessment-brisque/)| [Code](https://github.com/spmallick/learnopencv/tree/master/ImageMetrics)|
+|[Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/)|
+|[Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)| [Code](https://github.com/spmallick/learnopencv/tree/master/OCR)|
+|[Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)|[ Code](https://github.com/spmallick/learnopencv/tree/master/OpenPose)|
+|[Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)](https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/)| |
+|[How to convert your OpenCV C++ code into a Python module](https://www.learnopencv.com/how-to-convert-your-opencv-c-code-into-a-python-module/)|[ Code](https://github.com/spmallick/learnopencv/tree/master/pymodule)|
+|[CV4Faces : Best Project Award 2018](https://www.learnopencv.com/cv4faces-best-project-award-2018/)| |
+|[Facemark : Facial Landmark Detection using OpenCV](https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/)|[ Code](https://github.com/spmallick/learnopencv/tree/master/FacialLandmarkDetection)|
+|[Image Alignment (Feature Based) using OpenCV (C++/Python)](https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/)| [Code](https://github.com/spmallick/learnopencv/tree/master/ImageAlignment-FeatureBased)|
+|[Barcode and QR code Scanner using ZBar and OpenCV](https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/)| [Code](https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner)|
+|[Keras Tutorial : Fine-tuning using pre-trained models](https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Keras-Fine-Tuning)|
+|[OpenCV Transparent API](https://www.learnopencv.com/opencv-transparent-api/)| |
+|[Face Reconstruction using EigenFaces (C++/Python)](https://www.learnopencv.com/face-reconstruction-using-eigenfaces-cpp-python/)|[Code](https://github.com/spmallick/learnopencv/tree/master/ReconstructFaceUsingEigenFaces) |
+|[Eigenface using OpenCV (C++/Python)](https://www.learnopencv.com/eigenface-using-opencv-c-python/)| [Code](https://github.com/spmallick/learnopencv/tree/master/EigenFace)|
+|[Principal Component Analysis](https://www.learnopencv.com/principal-component-analysis/)| |
+|[Keras Tutorial : Transfer Learning using pre-trained models](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Keras-Transfer-Learning) |
+|[Keras Tutorial : Using pre-trained Imagenet models](https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Keras-ImageNet-Models) |
+|[Technical Aspects of a Digital SLR](https://www.learnopencv.com/technical-aspects-of-a-digital-slr/) | |
+|[Using Harry Potter interactive wand with OpenCV to create magic](https://www.learnopencv.com/using-harry-potter-interactive-wand-with-opencv-to-create-magic/)| |
+|[Install OpenCV 3 and Dlib on Windows ( Python only )](https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/)| |
 |[Image Classification using Convolutional Neural Networks in Keras](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras)      | [Code](https://github.com/spmallick/learnopencv/tree/master/KerasCNN-CIFAR)|
 |[Understanding Autoencoders using Tensorflow (Python)](https://www.learnopencv.com/understanding-autoencoders-using-tensorflow-python/)      | [Code](https://github.com/spmallick/learnopencv/tree/master/DenoisingAutoencoder)|
 |[Best Project Award : Computer Vision for Faces](https://www.learnopencv.com/best-project-award-computer-vision-for-faces/) | |
@@ -77,10 +107,3 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 |[Turn your OpenCV Code into a Web API in under 10 minutes — Part 1](http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/) | |
 |[How to compile OpenCV sample Code ?](http://www.learnopencv.com/how-to-compile-opencv-sample-Code/) | |
 |[Install OpenCV 3 on Yosemite ( OSX 10.10.x )](http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/) | |
-
-
-
-
-
- 
-  
